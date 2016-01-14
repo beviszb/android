@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="content_color">#737373</color>
+    <color name="wave_color_1">#e1e1e1</color>
+    <color name="wave_color_2">#888888</color>
+    <color name="wave_color_3">#666666</color>
+    <color name="wave_color_4">#505050</color>
+    <color name="wave_color_5">#3c3c3c</color>
+    <color name="green">#56ffff</color>
+    <color name="blue">#2084fb</color>
+    <color name="pink">#ff4667</color>
+    <color name="light_green">#9056ffff</color>
+    <color name="light_blue">#902084fb</color>
+    <color name="light_pink">#90ff4667</color>
+
+</resources>

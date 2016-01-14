@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="bevis.demo.siriwavedemo.MainActivity$PlaceholderFragment" >
+
+
+    
+     <bevis.demo.siriwavedemo.view.SiriWaveView
+            android:layout_width="match_parent"
+            android:layout_height="150dp" />
+        
+         <bevis.demo.siriwavedemo.view.SiriWaveViewNine
+            android:layout_width="match_parent"
+            android:layout_height="150dp" />
+
+</LinearLayout>
